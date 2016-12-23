@@ -1,0 +1,23 @@
+{
+  "name": "node-opencv-test-facial-recog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "bower": "^1.8.0",
+    "busboy": "^0.2.13",
+    "connect-busboy": "0.0.2",
+    "easyimage": "^2.1.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "lodash": "^4.17.2",
+    "multer": "^1.2.1",
+    "opencv": "^6.0.0"
+  }
+}
